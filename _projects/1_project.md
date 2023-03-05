@@ -1,8 +1,8 @@
 ---
-layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+layout: 
+title: cleansetext
+description: A simple library to help you clean your textual data.
+img:
 importance: 1
 category: work
 ---
